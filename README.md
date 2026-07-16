@@ -7,7 +7,7 @@ Esta sección documenta el desarrollo del **Laboratorio 1**, ubicado en la carpe
 
 ## ▶️ Cómo se ejecutó
 
-Enlace al video: 
+Enlace al video: https://youtu.be/3RUHrsLA_04 
 
 ### Resultados de las pruebas
 
